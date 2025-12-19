@@ -1,0 +1,22 @@
+{
+  "BTC": {
+    "binance": "BTCUSDT",
+    "coingecko": "bitcoin",
+    "name": "Bitcoin"
+  },
+  "ETH": {
+    "binance": "ETHUSDT",
+    "coingecko": "ethereum",
+    "name": "Ethereum"
+  },
+  "SOL": {
+    "binance": "SOLUSDT",
+    "coingecko": "solana",
+    "name": "Solana"
+  },
+  "DOT": {
+    "binance": "DOTUSDT",
+    "coingecko": "polkadot",
+    "name": "Polkadot"
+  }
+}
