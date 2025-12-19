@@ -3,7 +3,7 @@
 Architecture 
 
 ```
-crypto-analysis-tool/
+market-analysis-app/
 ├── .env                    # Secret API keys
 ├── .github/                # GitHub Actions for CI/CD
 ├── data/                   # Local cache or sample data (optional)
